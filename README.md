@@ -5,3 +5,8 @@ ontologies, few solutions have been proposed for ontology programming interface,
 a programming language. Existing query languages (such as SPARQL) and APIs (such as OWLAPI) are not as easy-to-use as object
 programming languages are. Moreover, they provide few solutions to difficulties encountered with biomedical ontologies. Our objective
 was to design a tool for accessing easily the entities of an OWL ontology, with high-level constructs helping with biomedical ontologies.
+
+
+Credits-> Owlready: Ontology-oriented programming in Python with automatic classification and high
+level constructs for biomedical ontologies by-
+#### Jean-Baptiste Lamya
